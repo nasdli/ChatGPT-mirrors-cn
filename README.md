@@ -48,7 +48,7 @@
 | 网站名称             | 支持版本         | 免费额度   | 稳定性 | 注册方式         | 功能亮点             |
 |----------------------|------------------|-----------|-------|------------------|----------------------|
 | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5  | 有         | 高     | 国内邮箱注册      | 支持 GPT-4o，绘图功能，用户评价优秀 |
-| [gptcat.net](https://gptcat.net)       | GPT-4, Claude3  | 有         | 高     | 国内邮箱注册      | 支持语音对话，兼容 Claude 模型 |
+| [gptcat.net](https://gptcat.net)       | GPT-4, Claude3,GPT-o1-PRO  | 有         | 高     | 国内邮箱注册      | 支持语音对话，支持价值200美元的o1-pro |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)   | GPT-4, GPT-3.5  | 有         | 高     | 国内邮箱注册      | 提供开发者 API 接口，适合技术用户 |
 | [gptdog.online](https://gptdog.online) | GPT-3.5         | 有         | 中     | 国内邮箱注册      | 完全免费，新手友好，适合简单对话 |
 
